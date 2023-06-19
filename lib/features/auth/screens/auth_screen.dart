@@ -1,6 +1,5 @@
 import 'package:amazon_clone/constants/global_variable.dart';
 import 'package:flutter/material.dart';
-
 import '../../../common/widgets/custom_buttom.dart';
 import '../../../common/widgets/custom_text_field.dart';
 
